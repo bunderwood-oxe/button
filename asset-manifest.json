@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/button/static/css/main.d0542700.chunk.css",
-    "main.js": "/button/static/js/main.974bb13e.chunk.js",
-    "main.js.map": "/button/static/js/main.974bb13e.chunk.js.map",
-    "runtime-main.js": "/button/static/js/runtime-main.7f805c32.js",
-    "runtime-main.js.map": "/button/static/js/runtime-main.7f805c32.js.map",
-    "static/js/2.28e92fda.chunk.js": "/button/static/js/2.28e92fda.chunk.js",
-    "static/js/2.28e92fda.chunk.js.map": "/button/static/js/2.28e92fda.chunk.js.map",
-    "static/js/3.b1a3a1db.chunk.js": "/button/static/js/3.b1a3a1db.chunk.js",
-    "static/js/3.b1a3a1db.chunk.js.map": "/button/static/js/3.b1a3a1db.chunk.js.map",
+    "main.js": "/button/static/js/main.1ade9b44.chunk.js",
+    "main.js.map": "/button/static/js/main.1ade9b44.chunk.js.map",
+    "runtime-main.js": "/button/static/js/runtime-main.760ad88c.js",
+    "runtime-main.js.map": "/button/static/js/runtime-main.760ad88c.js.map",
+    "static/js/2.1a9ce4ee.chunk.js": "/button/static/js/2.1a9ce4ee.chunk.js",
+    "static/js/2.1a9ce4ee.chunk.js.map": "/button/static/js/2.1a9ce4ee.chunk.js.map",
+    "static/js/3.69098b9c.chunk.js": "/button/static/js/3.69098b9c.chunk.js",
+    "static/js/3.69098b9c.chunk.js.map": "/button/static/js/3.69098b9c.chunk.js.map",
     "index.html": "/button/index.html",
     "static/css/main.d0542700.chunk.css.map": "/button/static/css/main.d0542700.chunk.css.map",
-    "static/js/2.28e92fda.chunk.js.LICENSE.txt": "/button/static/js/2.28e92fda.chunk.js.LICENSE.txt"
+    "static/js/2.1a9ce4ee.chunk.js.LICENSE.txt": "/button/static/js/2.1a9ce4ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f805c32.js",
-    "static/js/2.28e92fda.chunk.js",
+    "static/js/runtime-main.760ad88c.js",
+    "static/js/2.1a9ce4ee.chunk.js",
     "static/css/main.d0542700.chunk.css",
-    "static/js/main.974bb13e.chunk.js"
+    "static/js/main.1ade9b44.chunk.js"
   ]
 }
