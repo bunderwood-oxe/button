@@ -34,10 +34,15 @@ button {
   text-transform:capitalize;
   outline: 0;
   margin-bottom: 30px;
+
 }
 
 .button-call {
   background-color:#2ecc71;
+}
+
+.button-call:active {
+  background-color: #256b42
 }
 
 .button-reset {
