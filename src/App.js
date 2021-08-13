@@ -6,9 +6,9 @@ function App() {
 
   const notificationsData = (room, type) => ({
     "data": {
-        [room]: {
-            "name": [room],
-            "type": [type]
+        room: {
+            "name": room,
+            "type": type
         }
     },
     "type": "call-buttons"
