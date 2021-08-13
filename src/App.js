@@ -27,11 +27,11 @@ function App() {
       </header>
       <div className='room-name'>Room 7</div>
       <button className='button-call' onClick={() => callApi('Room 7', 'Call')}>Call</button>
-      <button className='button-reset' onClick={() => callApi('Room 7', 'reset')}>Reset</button>
+      {/* <button className='button-reset' onClick={() => callApi('Room 7', 'reset')}>Reset</button> */}
       <hr/>
       <div className='room-name'>Room 8</div>
       <button className='button-call' onClick={() => callApi('Room 8', 'Call')}>Call</button>
-      <button className='button-reset' onClick={() => callApi('Room 8', 'reset')}>Reset</button>
+      {/* <button className='button-reset' onClick={() => callApi('Room 8', 'reset')}>Reset</button> */}
     </div>
   );
 }
