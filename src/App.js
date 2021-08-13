@@ -14,7 +14,7 @@ function App() {
     "type": "call-buttons"
   })
 
-  const url = 'https://simi01.us-east-1.simulator.oxehealth.systems/api/1/notifcations/'
+  const url = 'https://simi01.us-east-1.simulator.oxehealth.systems/api/1/notifications/'
 
   function callApi(room, type) {
     axios.post(url, notificationsData(room, type))
